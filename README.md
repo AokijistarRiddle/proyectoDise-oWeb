@@ -11,4 +11,5 @@ En esta semana se hizo una preview de la pagina y como quedaria, ademas, los pro
 
 Ademas en esta semana se comenzara con el maquetado en hmtml y css
 
+Esta semana se añadio lo previsto en el anterior punto, aunque por cuestiones de tiempo no se pudo hacer mucho avance :C
 
